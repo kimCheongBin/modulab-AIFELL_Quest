@@ -20,7 +20,8 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/sujin7822/modulab-AIFELL_Quest/assets/122075306/910b2a3e-795d-4a36-827c-ccfe82331e73)
+
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
@@ -29,7 +30,8 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/sujin7822/modulab-AIFELL_Quest/assets/122075306/ace3d69b-4611-4c4c-8ce0-0c1d748099f3)
+
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -37,7 +39,8 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
-![image-4.png](attachment:image-4.png)
+![image](https://github.com/sujin7822/modulab-AIFELL_Quest/assets/122075306/9ac89bcb-eaf5-4f8c-b845-dcb11c5b724f)
+
 
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
@@ -45,7 +48,8 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
-![image-5.png](attachment:image-5.png)
+![image](https://github.com/sujin7822/modulab-AIFELL_Quest/assets/122075306/870be196-bb8e-4f14-b8d9-7f64f8fa4edf)
+
 
 # 참고 링크 및 코드 개선
 ```
